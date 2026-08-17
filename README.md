@@ -17,7 +17,7 @@ A full-stack plant management and care tracking application with an AI-powered p
 - Supabase database integration
 - Protected backend API with rate limiting and API authentication
 
-## Project Structure
+<!-- ## Project Structure
 
 casa-verde/
 ├── backend/          # Express API
@@ -25,7 +25,7 @@ casa-verde/
 ├── src/              # React application
 ├── .env              # Environment variables
 ├── package.json
-└── vite.config.ts
+└── vite.config.ts -->
 
 ## Setup
 
